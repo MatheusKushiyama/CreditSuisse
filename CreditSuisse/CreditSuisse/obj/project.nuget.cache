@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tfG4/9+61M+piuYpV8XuX+8JjV/jza1GeQhPQoL4AYtFHrby6u8JML6kdvlWMx1cRpDjVjUAMUIERbakl86TLA==",
+  "success": true,
+  "projectFilePath": "C:\\Teste\\CreditSuisse\\CreditSuisse\\CreditSuisse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MatheusKushiyama\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
