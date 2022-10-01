@@ -1,0 +1,10 @@
+C:\Teste\CreditSuisse\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Teste\CreditSuisse\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Teste\CreditSuisse\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Teste\CreditSuisse\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Teste\CreditSuisse\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teste\CreditSuisse\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Teste\CreditSuisse\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Teste\CreditSuisse\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Teste\CreditSuisse\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Teste\CreditSuisse\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

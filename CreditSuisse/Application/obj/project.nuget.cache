@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PsSwlLT4r+NK2lsMmaDQMUrqckRLQeVkYwxckIst8mCKvdZgqCLpz31vheBhyAifg5VJ9zYs9hoL0uTYB6qf0A==",
+  "dgSpecHash": "AkS4V/ijn8aQHlknTVPmO7Ucoauv8yyFx/UkUX9caISYgsbQS9fcZit4Iy0ciKvCzvZAnDxEkRODNd/SH+v9hw==",
   "success": true,
   "projectFilePath": "C:\\Teste\\CreditSuisse\\Application\\Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MatheusKushiyama\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\MatheusKushiyama\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\MatheusKushiyama\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

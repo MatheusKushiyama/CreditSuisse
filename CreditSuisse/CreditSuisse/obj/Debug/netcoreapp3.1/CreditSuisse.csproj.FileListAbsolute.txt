@@ -12,3 +12,11 @@ C:\Teste\CreditSuisse\CreditSuisse\obj\Debug\netcoreapp3.1\CreditSuisse.csproj.C
 C:\Teste\CreditSuisse\CreditSuisse\obj\Debug\netcoreapp3.1\CreditSuisse.dll
 C:\Teste\CreditSuisse\CreditSuisse\obj\Debug\netcoreapp3.1\CreditSuisse.pdb
 C:\Teste\CreditSuisse\CreditSuisse\obj\Debug\netcoreapp3.1\CreditSuisse.genruntimeconfig.cache
+C:\Teste\CreditSuisse\CreditSuisse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Teste\CreditSuisse\CreditSuisse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Teste\CreditSuisse\CreditSuisse\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Teste\CreditSuisse\CreditSuisse\bin\Debug\netcoreapp3.1\Application.dll
+C:\Teste\CreditSuisse\CreditSuisse\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Teste\CreditSuisse\CreditSuisse\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Teste\CreditSuisse\CreditSuisse\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Teste\CreditSuisse\CreditSuisse\obj\Debug\netcoreapp3.1\CreditSuisse.csproj.CopyComplete
